@@ -60,8 +60,6 @@ Custom face spoof datasets
 ⚙️ Installation
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/face-pad-vit.git
-cd face-pad-vit
 
 2️⃣ Create virtual environment (optional but recommended)
 python -m venv venv
