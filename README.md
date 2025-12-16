@@ -87,30 +87,6 @@ Einops
 
 (Full list available in requirements.txt)
 
-🚀 Training
-python train.py
-
-
-Training parameters such as:
-
-learning rate
-
-batch size
-
-number of epochs
-
-can be adjusted inside the training script.
-
-🧪 Testing
-python test.py
-
-🔍 Inference
-
-To test a single image:
-
-python inference.py --image path/to/image.jpg --model checkpoints/vit_model_epoch_20.pth
-
-
 Output:
 
 Prediction: Bona-fide / Spoof
